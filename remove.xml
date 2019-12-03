@@ -60,7 +60,6 @@
   <remove-project name="platform/build/soong" />
 
   <!-- Hardware -->
-  <remove-project name="platform/hardware/intel/audio_media" />
   <remove-project name="platform/hardware/intel/bootstub" />
   <remove-project name="platform/hardware/intel/common/bd_prov" />
   <remove-project name="platform/hardware/intel/common/libmix" />
