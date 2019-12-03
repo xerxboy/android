@@ -8,7 +8,7 @@
   <remove-project name="device/generic/car" />
   <remove-project name="device/generic/common" />
   <remove-project name="device/generic/goldfish" />
-  <remove-project name="device/generic/goldfish-opengl" /
+  <remove-project name="device/generic/goldfish-opengl" />
   <remove-project name="device/generic/mips64" />
   <remove-project name="device/generic/mini-emulator-arm64" />
   <remove-project name="device/generic/mini-emulator-armv7-a-neon" />
